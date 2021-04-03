@@ -1,0 +1,32 @@
+{
+    "id": "49087EF1",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1613011398515.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "expression": "airq",
+        "caption": "airq",
+        "totalObservations": "153",
+        "displayedObservations": "153",
+        "variables": "4",
+        "cacheKey": "0C8670F3",
+        "object": "airq",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=airq&cache_key=0C8670F3&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 3977558270527484209,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1613011398515,
+    "read_only": false,
+    "read_only_alternatives": []
+}

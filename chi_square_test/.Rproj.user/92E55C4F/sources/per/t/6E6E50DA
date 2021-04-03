@@ -1,0 +1,32 @@
+{
+    "id": "6E6E50DA",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1612598436782.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "expression": "df_matrix",
+        "caption": "df_matrix",
+        "totalObservations": "6",
+        "displayedObservations": "6",
+        "variables": "7",
+        "cacheKey": "E42FD70C",
+        "object": "df_matrix",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=df_matrix&cache_key=E42FD70C&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 3834005980125863968,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1612598436782,
+    "read_only": false,
+    "read_only_alternatives": []
+}

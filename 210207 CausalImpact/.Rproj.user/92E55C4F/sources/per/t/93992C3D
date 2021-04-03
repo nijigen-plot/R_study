@@ -1,0 +1,32 @@
+{
+    "id": "93992C3D",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1612632215865.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "expression": "df",
+        "caption": "df",
+        "totalObservations": "137",
+        "displayedObservations": "137",
+        "variables": "3",
+        "cacheKey": "E5D1FC26",
+        "object": "df",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=df&cache_key=E5D1FC26&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2459000718892870705,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1612632215865,
+    "read_only": false,
+    "read_only_alternatives": []
+}
